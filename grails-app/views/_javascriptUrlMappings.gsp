@@ -12,7 +12,7 @@ function findBestMatch(controller, action) {
     }
   }
 
-  return "${appRoot}" + controller;
+  return "${appRoot}" + controller + "/" + action;
 };
 
 g.createLink = function(options) {

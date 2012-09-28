@@ -19,7 +19,7 @@ import grails.plugin.javascripturlmappings.AllMappingsHolder
 
 class JavascriptUrlMappingsGrailsPlugin {
     // the plugin version
-    def version = "0.1"
+    def version = "0.1-kaiec-1"
     // the version or versions of Grails the plugin is designed for
     def grailsVersion = "1.2.2 > *"
     // the other plugins this plugin depends on
